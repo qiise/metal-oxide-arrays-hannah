@@ -1,1 +1,3 @@
-same dependencies/set up procedure as the model for flocking using mesa and matplotlib
+Ongoing research at Columbia University
+
+Utilzing the mesa library to create agent-based-modeling simulations and using matplotlib for visualization.
